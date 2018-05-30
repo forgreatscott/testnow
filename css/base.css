@@ -125,7 +125,7 @@ button:focus {
 	z-index: 100;
 	padding: 1em;
 	text-align: center;
-	color: var(--color-bg);
+	color: var(--color-message);
 	background: var(--color-text);
 }
 
@@ -276,3 +276,4 @@ main {
 		margin: 0 3rem 0 1.5rem;
 	}
 }
+
