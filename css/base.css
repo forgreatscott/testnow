@@ -194,7 +194,7 @@ main {
 	align-items: center;
 }
 
-.content--switch, .content--switch {
+.content--switch {
 	padding: 2.5rem 1rem;
 }
 
@@ -225,7 +225,7 @@ main {
 		margin: 0 0 0 1.25em;
 	}
 
-	.content {
+	.content, .contentt {
 		margin: 0 auto;
 		min-height: 100vh;
 	}
