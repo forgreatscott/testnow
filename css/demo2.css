@@ -376,29 +376,29 @@ main {
 }
 
 #content-1 {
-	background-image: url(http://res.cloudinary.com/marianalla/image/upload/v1527695804/main-1400-836.jpg);
+	background-image: url(https://res.cloudinary.com/marianalla/image/upload/v1527695804/main-1400-836.jpg);
 }
 
 #content-2 {
-	background-image: url(http://res.cloudinary.com/marianalla/image/upload/v1527691594/medicine2-1200-800.jpg);
+	background-image: url(https://res.cloudinary.com/marianalla/image/upload/v1527691594/medicine2-1200-800.jpg);
 }
 
 #content-3 {
-	background-image: url(http://res.cloudinary.com/marianalla/image/upload/v1527691566/every-day1200-800.jpg);
+	background-image: url(https://res.cloudinary.com/marianalla/image/upload/v1527691566/every-day1200-800.jpg);
 }
 
 #content-4 {
-	background-image: url(http://res.cloudinary.com/marianalla/image/upload/v1527691547/epigenetics2-1200-800.jpg);
+	background-image: url(https://res.cloudinary.com/marianalla/image/upload/v1527691547/epigenetics2-1200-800.jpg);
 }
 
 #content-5 {
-	background-image: url(http://res.cloudinary.com/marianalla/image/upload/v1527691580/e-learning2-1200-800.jpg);
+	background-image: url(https://res.cloudinary.com/marianalla/image/upload/v1527691580/e-learning2-1200-800.jpg);
 }
 
 #content-6 {
-	background-image: url(http://res.cloudinary.com/marianalla/image/upload/v1527691556/motivation-1200-800.jpg);
-    background-image: url(http://res.cloudinary.com/marianalla/image/upload/v1527705837/motivation3-1200-800.jpg);
-    background-image: url(http://res.cloudinary.com/marianalla/image/upload/v1527706249/motivation4-1200-800.jpg);
+	background-image: url(https://res.cloudinary.com/marianalla/image/upload/v1527691556/motivation-1200-800.jpg);
+    background-image: url(https://res.cloudinary.com/marianalla/image/upload/v1527705837/motivation3-1200-800.jpg);
+    background-image: url(https://res.cloudinary.com/marianalla/image/upload/v1527706249/motivation4-1200-800.jpg);
     
 }
 
@@ -415,7 +415,7 @@ main {
     border-radius: 5px;
     line-height: 1rem;
     transition: all 200ms;
-    /*background-image:url(http://res.cloudinary.com/marianalla/image/upload/v1527695804/main-1400-836.jpg);
+    /*background-image:url(https://res.cloudinary.com/marianalla/image/upload/v1527695804/main-1400-836.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center; */
